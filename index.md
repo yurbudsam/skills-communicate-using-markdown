@@ -5,3 +5,9 @@
 ``` javascript
 var myVar = "Sup?!";
 ```
+# TO DO's
+- [ ] Be super cool
+- [ ] get so cold its hypothermic
+- [ ] thaw out
+- [ ] marinade in jerk sauce
+- [ ] in the oven center rack 350 for 45 minutes
